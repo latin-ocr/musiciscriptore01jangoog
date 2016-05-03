@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./musiciscriptore01jangoog_0313.png"; bbox 0 0 775 1123; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 84 72 698 580">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 84 72 698 580">
+     <span class='ocr_line' id='line_1_1' title="bbox 84 72 698 580; baseline 0 543"><span class='ocrx_word' id='word_1_1' title='bbox 84 72 698 580; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 91 953 693 1027">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 91 953 693 1027">
+     <span class='ocr_line' id='line_1_2' title="bbox 160 955 537 970; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 160 956 300 970; x_wconf 61' lang='lat' dir='ltr'>nauem-adn.</span> <span class='ocrx_word' id='word_1_3' title='bbox 519 955 537 969; x_wconf 66' lang='lat'>11</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 91 953 693 1027; baseline 0.007 -4"><span class='ocrx_word' id='word_1_4' title='bbox 91 1021 94 1023; x_wconf 81' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 115 1015 208 1024; x_wconf 42' lang='lat' dir='ltr'>m..</span> <span class='ocrx_word' id='word_1_6' title='bbox 638 953 693 1027; x_wconf 69' lang='grc' dir='ltr'>ί</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
